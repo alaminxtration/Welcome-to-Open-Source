@@ -68,12 +68,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;"
-                        alt="Harsh Pandey" />
+                <a href="https://github.com/alaminxtration/">
+                    <img src="https://avatars.githubusercontent.com/u/151457567?v=4"
+                        alt="MD AL AMIN" />
                     <br />
                     <sub>
-                        <b>Harsh Pandey</b>
+                        <b>MD AL AMIN</b>
                     </sub>
                 </a>
             </td>
